@@ -1,0 +1,11 @@
+API: Es un conjunto de reglas y mecanismos que permiten la comunicación entre diferentes aplicaciones o sistemas.
+
+Endpoint: Es una ruta específica de una API que permite acceder a un recurso o funcionalidad determinada.
+
+Método GET: Se utiliza para solicitar y obtener información desde el servidor.
+
+Parámetro de ruta: Es un valor dinámico incluido en la URL que permite personalizar la respuesta del servidor.
+
+JSON: Formato ligero de intercambio de datos ampliamente utilizado en APIs.
+
+Servidor: Programa encargado de recibir solicitudes de los clientes y enviar las respuestas correspondientes.

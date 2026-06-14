@@ -1,0 +1,5 @@
+Durante el desarrollo de esta actividad aprendí cómo crear un servidor básico utilizando Node.js y Express. Comprendí la importancia de las rutas para responder a diferentes solicitudes realizadas por los usuarios y cómo los parámetros en la URL permiten generar respuestas dinámicas.
+
+Además, pude identificar el funcionamiento de una API sencilla y la manera en que un servidor procesa las peticiones realizadas desde un navegador. La práctica me permitió fortalecer mis habilidades en el uso de la terminal, Git y GitHub para el control de versiones y la gestión de proyectos.
+
+Considero que este conocimiento es fundamental para el desarrollo web moderno, ya que las APIs son una herramienta esencial para la comunicación entre aplicaciones y servicios.

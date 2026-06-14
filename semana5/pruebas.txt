@@ -1,0 +1,23 @@
+PRUEBA 1
+URL: http://localhost:3000
+Método: GET
+Resultado esperado: Servidor activo
+Resultado obtenido: Servidor activo
+
+PRUEBA 2
+URL: http://localhost:3000/saludo
+Método: GET
+Resultado esperado: Hola comunidad
+Resultado obtenido: Hola comunidad
+
+PRUEBA 3
+URL: http://localhost:3000/mensaje/jorge
+Método: GET
+Resultado esperado: Hola jorge
+Resultado obtenido: Hola jorge
+
+PRUEBA 4
+URL: http://localhost:3000/mensaje/Juan
+Método: GET
+Resultado esperado: Hola Juan
+Resultado obtenido: Hola Juan
